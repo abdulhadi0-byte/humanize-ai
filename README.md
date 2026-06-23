@@ -1,24 +1,40 @@
-# humanize-ai
-AI Text Detector &amp; Humanizer Web App
 <div align="center">
 
 # 🔮 Lumina AI Engine Pro
+### *Enterprise-Grade Hybrid Stylometric Classifier & Organic Syntax Humanization Pipeline*
 
-### *Enterprise-Grade AI Text Detection & Organic Humanization Architecture*
-
-[![GitHub Stars](https://img.shields.io/github/stars/abdulhadi0-byte/humanize-ai?style=for-the-badge&color=8b5cf6&logo=github)](https://github.com/abdulhadi0-byte/humanize-ai/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/abdulhadi0-byte/humanize-ai?style=for-the-badge&color=6366f1&logo=github)](https://github.com/abdulhadi0-byte/humanize-ai/network/members)
-[![GitHub License](https://img.shields.io/github/license/abdulhadi0-byte/humanize-ai?style=for-the-badge&color=3b82f6)](LICENSE)
-[![GitHub Pages Deployment](https://img.shields.io/badge/Deployment-GitHub_Pages-10b981?style=for-the-badge&logo=githubactions&logoColor=white)](https://abdulhadi0-byte.github.io/humanize-ai/)
+[![GitHub Stars](https://img.shields.io/github/stars/abdulhadi0-byte/humanize-ai?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white)](https://github.com/abdulhadi0-byte/humanize-ai/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/abdulhadi0-byte/humanize-ai?style=for-the-badge&color=6366f1&logo=github&logoColor=white)](https://github.com/abdulhadi0-byte/humanize-ai/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/abdulhadi0-byte/humanize-ai?style=for-the-badge&color=ea580c&logo=github&logoColor=white)](https://github.com/abdulhadi0-byte/humanize-ai/issues)
+[![Deployment Status](https://img.shields.io/badge/Deployment-GitHub_Pages-10b981?style=for-the-badge&logo=githubactions&logoColor=white)](https://abdulhadi0-byte.github.io/humanize-ai/)
+[![Python Version](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%">
 </p>
 
-[✨ Live Interactive Demo](https://abdulhadi0-byte.github.io/humanize-ai/) • [🧠 Machine Learning Core](#-machine-learning-intelligence-core) • [🚀 Key Features](#-key-features) • [🛠️ Installation](#-local-installation--setup)
+[✨ Launch Live Interactive Demo](https://abdulhadi0-byte.github.io/humanize-ai/) • [🧠 Mathematical Architecture](#-mathematical-architecture--intelligence-core) • [🚀 Core Features](#-key-architectural-features) • [🛠️ Deployment Pipeline](#-automated-cicd-workflow-telemetry)
 
 </div>
 
-## 🌌 Overview
+## 🌌 Project Abstract
 
-**Lumina AI Engine Pro** is a high-accuracy, prompt-agnostic AI text detection and linguistic humanization framework. Unlike classic detectors that simply flag vocabulary arrays, Lumina checks compound **Stylometric Tensors** (word + character sublinear matrices) alongside structural smoothing vectors to neutralize structural layout biases, false positives, and formatting noise.
+**Lumina AI Engine Pro** is an advanced machine learning framework built to solve the modern vulnerabilities of AI text detection. Traditional detection mechanisms heavily rely on shallow keyword counting or strict perplexity measurements, which regularly trigger severe false-positives on human text containing structural components like headings, bullet points, or formal scholastic transitions.
+
+Lumina neutralizes this bottleneck by implementing a high-vocabulary **Dual-Matrix FeatureUnion Pipeline**. By mapping text inputs simultaneously through sublinear word-level $N$-grams $(1, 2)$ and sliding character-level token sequences $(3, 5)$, the system analyzes underlying rhythm, syntactic pacing, and word-boundary behaviors. The result is a robust, prompt-agnostic classifier that isolates artificial text properties with precision while offering a rule-based organic smoothing layer to humanize rigid AI constructs.
+
+---
+
+## 🚀 Key Architectural Features
+
+* **Dual-Layer Feature Vectorization:** Blends structural word arrangements with dense sub-string character combinations to bypass common layout and structural biases.
+* **Calibrated Soft-Smoothing Optimization:** Features adjusted mathematical threshold zones to significantly decrease borderline false-positives on highly organized human writing.
+* **Linguistic Fragment Humanizer:** Employs an intentional contextual replacement array targeting overused, high-frequency AI indicators to naturally organicize paragraph flow.
+* **Premium Glassmorphic Dashboard:** Designed using a dark-mode Tailwind CSS aesthetic, displaying clear telemetry logs, structural indexes, and progressive confidence ratings.
+* **Automated CI/CD Workflow Infrastructure:** Complete with a robust GitHub Actions engine config, allowing changes to publish globally to GitHub Pages on every single code commit automatically.
+
+---
+
+## 🧠 Mathematical Architecture & Intelligence Core
+
+The system shifts away from basic statistical tracking into a high-dimensional mathematical grid space.
